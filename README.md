@@ -3,7 +3,7 @@
 A decentralized voting application built with **React, Solidity, and Chainlink VRF**.
 
 ## 🔗 Try It Now!  
-🚀 **Live App:** [Click Here to Vote](https://your-live-app-link.com)  
+🚀 **Live App:** [Click Here to Vote](https://2099-vote-dapp.vercel.app)  
 
 ## 🎯 How It Works
 1️⃣ **Connect Your Wallet** (MetaMask required)  
