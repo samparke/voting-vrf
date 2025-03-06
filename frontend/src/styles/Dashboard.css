@@ -1,0 +1,14 @@
+/* body {
+    background-image: url("/public/images/landscape/city.png");
+} */
+
+.dashboard{
+    background-image: url("/public/images/landscape/city.png");
+    /* border: 25px solid rgb(238, 238, 238); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}

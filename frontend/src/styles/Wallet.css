@@ -1,0 +1,18 @@
+.wallet{
+    font-family: "VT323", serif;
+    font-size: 20px;
+    color: rgb(91, 39, 203);
+    /* background-color: rgb(91, 39, 203); */
+    position: absolute;
+    margin-left: auto;
+    padding: 15px 30px;
+    border-radius: 30px;
+    /* transition: background-color 0.3s ease; */
+    border: 1px solid thistle;
+    cursor: pointer; 
+}
+
+.wallet:hover{
+    /* background-color: rgb(72, 32, 158); */
+    border: 1px solid rgb(91, 39, 203);
+}

@@ -1,0 +1,27 @@
+.winner-background {
+    background-image: url("/public/images/landscape/winnerbackground.png");
+    /* border: 25px solid rgb(238, 238, 238); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    
+}
+
+img {
+    margin: 0;
+    margin-top: 20px;
+}
+
+h1 {
+    font-family: "VT323", serif;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "VT323", serif;
+    font-size: 30px; 
+}
+
