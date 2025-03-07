@@ -1,27 +1,42 @@
-# 🗳️ 2099 Voting Dapp
+# 2099 Voting Dapp
 
 A decentralized voting application built with **React, Solidity, and Chainlink VRF**.
+ 
+**🚀 Live Demo:** [Click Here to Vote](https://2099-vote-dapp.vercel.app) 
 
-## 🔗 Try It Now!  
-🚀 **Live App:** [Click Here to Vote](https://2099-vote-dapp.vercel.app)  
 
-## 🎯 How It Works
-1️⃣ **Connect Your Wallet** (MetaMask required)  
-2️⃣ **Vote for Your Favorite Candidate**  
-3️⃣ **Wait for the Random Winner to be Selected**  
-4️⃣ **See if Your Candidate Won! 🎉**  
+## Smart Contract Details
+**Contract Address:** `0xEe94c76bF8BC21341BEBfDf1e059135D7dCc06c4`
 
-## 🔍 What’s Under the Hood?
-✅ **Smart contract on Sepolia Testnet**  
-✅ **Chainlink VRF for fair random winner selection**  
-✅ **Ethereum wallet integration (MetaMask required)**  
+**Deployed on:** Sepolia Testnet
 
-## 🛠 Tech Stack
+**View on Etherscan:** [View Contract](https://sepolia.etherscan.io/address/0xEe94c76bF8BC21341BEBfDf1e059135D7dCc06c4) 
+
+
+## Quick Screenshots
+**Images:** [See Images](https://imgur.com/a/fVn9A1O) 
+
+
+## How It Works
+1. **Connect your wallet** (MetaMask required)  
+2. **Enter election**  
+3. **Vote for your favorite candidate**  
+4. **After the vote has processed, click 'Get Winner'** 
+5. **Wait for the random winner to be selected**  
+6. **See if your candidate won**  
+
+## What’s Under the Hood?
+- **Chainlink VRF mocks for local testing** 
+- **Smart contract on Sepolia Testnet**  
+- **Chainlink VRF for fair random winner selection**  
+- **Ethereum wallet integration (MetaMask required)**  
+
+## Technologies used
 - **Solidity** – Smart contract development  
 - **React** – Frontend UI  
 - **Ethers.js** – Blockchain interaction  
 - **Chainlink VRF** – Randomness for winner selection  
 - **Hardhat** – Smart contract testing & deployment  
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.
