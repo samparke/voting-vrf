@@ -1,9 +1,8 @@
 # 2099 Voting Dapp
 
-A decentralized voting application built with **React, Solidity, and Chainlink VRF**.
+A decentralized voting application built with **Solidity, and Chainlink VRF**.
  
-**🚀 Live Demo:** [Click Here to Vote](https://2099-vote-dapp.vercel.app) 
-
+<!-- **🚀 Live Demo:** [Click Here to Vote](https://2099-vote-dapp.vercel.app)  -->
 
 ## Smart Contract Details
 **Contract Address:** `0xEe94c76bF8BC21341BEBfDf1e059135D7dCc06c4`
@@ -33,7 +32,6 @@ A decentralized voting application built with **React, Solidity, and Chainlink V
 
 ## Technologies used
 - **Solidity** – Smart contract development  
-- **React** – Frontend UI  
 - **Ethers.js** – Blockchain interaction  
 - **Chainlink VRF** – Randomness for winner selection  
 - **Hardhat** – Smart contract testing & deployment  
