@@ -16,7 +16,7 @@ A decentralized voting application built with **Solidity, and Chainlink VRF**.
 **Images:** [See Images](https://imgur.com/a/fVn9A1O) 
 
 
-## How It Works
+## How It Works 
 1. **Connect your wallet** (MetaMask required)  
 2. **Enter election**  
 3. **Vote for your favorite candidate**  
@@ -24,11 +24,6 @@ A decentralized voting application built with **Solidity, and Chainlink VRF**.
 5. **Wait for the random winner to be selected**  
 6. **See if your candidate won**  
 
-## What’s Under the Hood?
-- **Chainlink VRF mocks for local testing** 
-- **Smart contract on Sepolia Testnet**  
-- **Chainlink VRF for fair random winner selection**  
-- **Ethereum wallet integration (MetaMask required)**  
 
 ## Technologies used
 - **Solidity** – Smart contract development  
